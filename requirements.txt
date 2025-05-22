@@ -1,0 +1,7 @@
+streamlit
+pandas
+rdkit-pypi
+requests
+scikit-learn
+matplotlib
+shap
