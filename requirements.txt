@@ -1,6 +1,6 @@
 streamlit
 pandas
-rdkit-pypi
+rdkit==2022.9.5
 requests
 scikit-learn
 matplotlib
